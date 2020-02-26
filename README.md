@@ -6,8 +6,8 @@ Collection of React Hooks ready to install with NPM
 - [x] useClick
 - [x] useHover
 - [x] useConfirm
-- [ ] usePreventLeave
-- [ ] usePageLeave
+- [x] usePreventLeave
+- [ ] useBeforeLeave
 - [ ] useFadeIn
 - [ ] useFullscreen
 - [ ] useNetwork
