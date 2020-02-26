@@ -1,7 +1,7 @@
 # Usage
 
 ```js
-import useInput from "@nooks/use-input";
+import useInput from "@kooks/use-input";
 
 const App = () => {
   const at = value => !value.includes("@");
