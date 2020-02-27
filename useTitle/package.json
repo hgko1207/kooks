@@ -1,0 +1,25 @@
+{
+  "name": "@kooks/use-title",
+  "version": "1.0.1",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgko1207/kooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "Ko Hyeong Gyun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hgko1207/kooks/issues"
+  },
+  "homepage": "https://github.com/hgko1207/kooks#readme",
+  "peerDependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
