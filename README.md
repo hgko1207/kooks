@@ -1,4 +1,4 @@
-Collection of React Hooks ready to install with NPM
+### React Hooks
 
 - [x] useInput
 - [x] useTabs
@@ -15,13 +15,13 @@ Collection of React Hooks ready to install with NPM
 - [x] useNotification
 - [x] useAxios
 
-#### React Hooks
+#### Usage
 
 - useState
 - useEffect
 - useRef
 
-### Publishing to NPM
+#### Publishing to NPM
 
 ```bash
 > npm install
